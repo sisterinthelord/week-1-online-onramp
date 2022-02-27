@@ -1,3 +1,3 @@
-function isDivisbleByN(arr, n) {}
+function isDivisbleByN(arr, n) {return arr/n = newArr;}
 
-module.exports = isDivisbleByN
+module.exports = isDivisbleByN([1,3,5,6,3,6,7,4], 2);
